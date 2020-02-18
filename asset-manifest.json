@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.00daacec.chunk.css",
-    "main.js": "/my-app/static/js/main.3b974fb2.chunk.js",
-    "main.js.map": "/my-app/static/js/main.3b974fb2.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.d6c64b2f.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.d6c64b2f.js.map",
-    "static/js/2.73deddc4.chunk.js": "/my-app/static/js/2.73deddc4.chunk.js",
-    "static/js/2.73deddc4.chunk.js.map": "/my-app/static/js/2.73deddc4.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.727f00446a46e4f1c7a7a5fdc773221f.js": "/my-app/precache-manifest.727f00446a46e4f1c7a7a5fdc773221f.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.00daacec.chunk.css.map": "/my-app/static/css/main.00daacec.chunk.css.map",
-    "static/js/2.73deddc4.chunk.js.LICENSE.txt": "/my-app/static/js/2.73deddc4.chunk.js.LICENSE.txt",
-    "static/media/mail.png": "/my-app/static/media/mail.bdf8bb1a.png"
+    "main.css": "/personal-website/static/css/main.00daacec.chunk.css",
+    "main.js": "/personal-website/static/js/main.45808207.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.45808207.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.f080140b.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.f080140b.js.map",
+    "static/js/2.73deddc4.chunk.js": "/personal-website/static/js/2.73deddc4.chunk.js",
+    "static/js/2.73deddc4.chunk.js.map": "/personal-website/static/js/2.73deddc4.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "precache-manifest.6bd6691c13e069bf4a25e2931b2fe2a3.js": "/personal-website/precache-manifest.6bd6691c13e069bf4a25e2931b2fe2a3.js",
+    "service-worker.js": "/personal-website/service-worker.js",
+    "static/css/main.00daacec.chunk.css.map": "/personal-website/static/css/main.00daacec.chunk.css.map",
+    "static/js/2.73deddc4.chunk.js.LICENSE.txt": "/personal-website/static/js/2.73deddc4.chunk.js.LICENSE.txt",
+    "static/media/mail.png": "/personal-website/static/media/mail.bdf8bb1a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6c64b2f.js",
+    "static/js/runtime-main.f080140b.js",
     "static/js/2.73deddc4.chunk.js",
     "static/css/main.00daacec.chunk.css",
-    "static/js/main.3b974fb2.chunk.js"
+    "static/js/main.45808207.chunk.js"
   ]
 }
