@@ -1,0 +1,34 @@
+.project {
+  /* display: inline-block; */
+  margin: 10px;
+  color: black;
+}
+
+.projectname {
+  /* width: 200px; */
+  font-weight: 400;
+  align-items: center;
+  align-self: center;
+  vertical-align: center;
+  color: black;
+}
+
+a{
+  color: black;
+}
+
+a:link{
+  text-decoration: none;
+}
+
+
+.language {
+  font-size: 12px;
+  font-weight: 900;
+  padding-bottom: 20px;
+}
+
+.project {
+  font-size: 14px;
+  font-weight: 100;
+}
